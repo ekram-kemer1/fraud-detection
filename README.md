@@ -174,4 +174,8 @@ It achieved the highest Average Precision Score.
 It significantly reduced false positives compared to Logistic Regression.
 Cross-validation demonstrated stable performance.
 
-
+## Task 3 — Model Explainability
+- SHAP TreeExplainer applied to Random Forest (best model)
+- Summary plots generated for both Fraud_Data and CreditCard datasets
+- Force plots for True Positive, False Positive, and False Negative cases
+- Top 5 fraud drivers identified with business recommendations
